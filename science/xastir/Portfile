@@ -30,7 +30,7 @@ depends_lib         port:xorg-libXp \
                     port:fontconfig \
                     lib:libXm:openmotif \
                     port:libgeotiff \
-                    port:ImageMagick \
+                    port:GraphicsMagick \
                     port:gdal \
                     port:pcre \
                     port:db46 \
